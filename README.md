@@ -5,32 +5,11 @@
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
-[国内中文版](https://chat.mengbiandiqiu.site)
-
-它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
-
-在此页面中，您将找到可与 ChatGPT 一起使用的各种提示。
-
-只需按照README.md文件中的提示输入即可。
-
-
-
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
-
-同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
+[GPT国内中文版](https://chat.mengbiandiqiu.site)     
 
 ### **ChatGPT Plus帐号代开、充值、更多课程学习： https://399.mengbiandiqiu.site**
 
 ------
-
-
-
-## 解除封印咒语
-
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
-
-#### [更多猫娘玩法点这个](./cat.md)
-
 
 
 ## 它能干什么? 
